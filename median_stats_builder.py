@@ -284,7 +284,7 @@ def main():
     range_cfg = config.get("range") or {}
     git_cfg = config.get("git") or {}
 
-    csv_dir = Path(paths["csv_dir"])
+    csv_dir = Path(paths["csv_dir"]).expanduser()
     mid_pack_path = csv_dir / paths["mid_pack_csv"]
     floor_path = csv_dir / paths["floor_csv"]
 
@@ -305,7 +305,7 @@ def main():
         "floor": floor_json,
     }
 
-    output_repo_dir = Path(paths["output_repo_dir"])
+    output_repo_dir = Path(paths["output_repo_dir"]).expanduser()
     if not output_repo_dir.exists():
         log.error(
             "output_repo_dir does not exist: %s -- clone the raw-data repo there first.",

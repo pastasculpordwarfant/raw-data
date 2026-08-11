@@ -13,7 +13,7 @@ paths:
   # A SEPARATE cloned copy of the raw-data repo (not the same folder
   # as csv_dir above). The script writes the output JSON here and
   # commits/pushes it.
-  output_repo_dir: "/home/ukronis/JSONExtract/umamoe_process_CSV_to_JSON/raw-data"
+  output_repo_dir: "~/JSONExtract/umamoe_process_CSV_to_JSON/raw-data"
   output_json_name: "median_stats.json"
 
 # Date range to include in the output JSON. Uses (month, date) pairs
