@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T08:39:50Z",
+  "generated_at": "2026-08-12T08:57:45Z",
   "tiers": [
     "ss",
     "s_plus",
@@ -514,69 +514,6 @@
             "person_3day_avg": 1314769.4888888889
           }
         }
-      },
-      {
-        "month": 8,
-        "day": 1,
-        "time": "22:48",
-        "tiers": {
-          "ss": {
-            "club_day_to_day": null,
-            "club_all_time_avg": null,
-            "club_3day_avg": null,
-            "person_day_to_day": null,
-            "person_all_time_avg": null,
-            "person_3day_avg": null
-          },
-          "s_plus": {
-            "club_day_to_day": null,
-            "club_all_time_avg": null,
-            "club_3day_avg": null,
-            "person_day_to_day": null,
-            "person_all_time_avg": null,
-            "person_3day_avg": null
-          },
-          "s": {
-            "club_day_to_day": null,
-            "club_all_time_avg": null,
-            "club_3day_avg": null,
-            "person_day_to_day": null,
-            "person_all_time_avg": null,
-            "person_3day_avg": null
-          },
-          "a_plus": {
-            "club_day_to_day": null,
-            "club_all_time_avg": null,
-            "club_3day_avg": null,
-            "person_day_to_day": null,
-            "person_all_time_avg": null,
-            "person_3day_avg": null
-          },
-          "a": {
-            "club_day_to_day": null,
-            "club_all_time_avg": null,
-            "club_3day_avg": null,
-            "person_day_to_day": null,
-            "person_all_time_avg": null,
-            "person_3day_avg": null
-          },
-          "b_plus": {
-            "club_day_to_day": null,
-            "club_all_time_avg": null,
-            "club_3day_avg": null,
-            "person_day_to_day": null,
-            "person_all_time_avg": null,
-            "person_3day_avg": null
-          },
-          "b": {
-            "club_day_to_day": null,
-            "club_all_time_avg": null,
-            "club_3day_avg": null,
-            "person_day_to_day": null,
-            "person_all_time_avg": null,
-            "person_3day_avg": null
-          }
-        }
       }
     ]
   },
@@ -1083,69 +1020,6 @@
             "person_day_to_day": 1571994.9,
             "person_all_time_avg": 867023.85,
             "person_3day_avg": 1075745.811111111
-          }
-        }
-      },
-      {
-        "month": 8,
-        "day": 1,
-        "time": "22:48",
-        "tiers": {
-          "ss": {
-            "club_day_to_day": null,
-            "club_all_time_avg": null,
-            "club_3day_avg": null,
-            "person_day_to_day": null,
-            "person_all_time_avg": null,
-            "person_3day_avg": null
-          },
-          "s_plus": {
-            "club_day_to_day": null,
-            "club_all_time_avg": null,
-            "club_3day_avg": null,
-            "person_day_to_day": null,
-            "person_all_time_avg": null,
-            "person_3day_avg": null
-          },
-          "s": {
-            "club_day_to_day": null,
-            "club_all_time_avg": null,
-            "club_3day_avg": null,
-            "person_day_to_day": null,
-            "person_all_time_avg": null,
-            "person_3day_avg": null
-          },
-          "a_plus": {
-            "club_day_to_day": null,
-            "club_all_time_avg": null,
-            "club_3day_avg": null,
-            "person_day_to_day": null,
-            "person_all_time_avg": null,
-            "person_3day_avg": null
-          },
-          "a": {
-            "club_day_to_day": null,
-            "club_all_time_avg": null,
-            "club_3day_avg": null,
-            "person_day_to_day": null,
-            "person_all_time_avg": null,
-            "person_3day_avg": null
-          },
-          "b_plus": {
-            "club_day_to_day": null,
-            "club_all_time_avg": null,
-            "club_3day_avg": null,
-            "person_day_to_day": null,
-            "person_all_time_avg": null,
-            "person_3day_avg": null
-          },
-          "b": {
-            "club_day_to_day": null,
-            "club_all_time_avg": null,
-            "club_3day_avg": null,
-            "person_day_to_day": null,
-            "person_all_time_avg": null,
-            "person_3day_avg": null
           }
         }
       }
