@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T10:30:01Z",
+  "generated_at": "2026-08-21T10:30:01Z",
   "tiers": [
     "ss",
     "s_plus",
@@ -1207,6 +1207,69 @@
             "person_3day_avg": 715320.6
           }
         }
+      },
+      {
+        "month": 8,
+        "day": 20,
+        "time": "10:16",
+        "tiers": {
+          "ss": {
+            "club_day_to_day": 467506588.0,
+            "club_all_time_avg": 467449488.9444444,
+            "club_3day_avg": 469679524.0,
+            "person_day_to_day": 15583552.933333334,
+            "person_all_time_avg": 15581649.63148148,
+            "person_3day_avg": 15655984.133333333
+          },
+          "s_plus": {
+            "club_day_to_day": 355878496.0,
+            "club_all_time_avg": 376180917.0,
+            "club_3day_avg": 358107002.6666667,
+            "person_day_to_day": 11862616.533333333,
+            "person_all_time_avg": 12539363.9,
+            "person_3day_avg": 11936900.08888889
+          },
+          "s": {
+            "club_day_to_day": 285620992.0,
+            "club_all_time_avg": 286515811.0,
+            "club_3day_avg": 286074662.3333333,
+            "person_day_to_day": 9520699.733333332,
+            "person_all_time_avg": 9550527.033333333,
+            "person_3day_avg": 9535822.077777777
+          },
+          "a_plus": {
+            "club_day_to_day": 142425332.0,
+            "club_all_time_avg": 151023498.3888889,
+            "club_3day_avg": 145292352.0,
+            "person_day_to_day": 4747511.066666666,
+            "person_all_time_avg": 5034116.612962963,
+            "person_3day_avg": 4843078.4
+          },
+          "a": {
+            "club_day_to_day": 91558760.0,
+            "club_all_time_avg": 96224079.3888889,
+            "club_3day_avg": 93508740.66666667,
+            "person_day_to_day": 3051958.6666666665,
+            "person_all_time_avg": 3207469.3129629632,
+            "person_3day_avg": 3116958.0222222223
+          },
+          "b_plus": {
+            "club_day_to_day": 36410244.0,
+            "club_all_time_avg": 36318551.722222224,
+            "club_3day_avg": 37189740.0,
+            "person_day_to_day": 1213674.8,
+            "person_all_time_avg": 1210618.3907407408,
+            "person_3day_avg": 1239658.0
+          },
+          "b": {
+            "club_day_to_day": 21697276.0,
+            "club_all_time_avg": 20866824.055555556,
+            "club_3day_avg": 22295954.666666668,
+            "person_day_to_day": 723242.5333333333,
+            "person_all_time_avg": 695560.8018518519,
+            "person_3day_avg": 743198.488888889
+          }
+        }
       }
     ]
   },
@@ -2406,6 +2469,69 @@
             "person_day_to_day": 634575.8,
             "person_all_time_avg": 555333.0823529412,
             "person_3day_avg": 572503.4444444444
+          }
+        }
+      },
+      {
+        "month": 8,
+        "day": 20,
+        "time": "10:16",
+        "tiers": {
+          "ss": {
+            "club_day_to_day": 426878479.0,
+            "club_all_time_avg": 430218438.6111111,
+            "club_3day_avg": 415844236.6666667,
+            "person_day_to_day": 14229282.633333333,
+            "person_all_time_avg": 14340614.62037037,
+            "person_3day_avg": 13861474.555555556
+          },
+          "s_plus": {
+            "club_day_to_day": 323179219.0,
+            "club_all_time_avg": 354365198.0,
+            "club_3day_avg": 338616552.3333333,
+            "person_day_to_day": 10772640.633333333,
+            "person_all_time_avg": 11812173.266666668,
+            "person_3day_avg": 11287218.41111111
+          },
+          "s": {
+            "club_day_to_day": 277018196.0,
+            "club_all_time_avg": 270219314.8888889,
+            "club_3day_avg": 277343569.3333333,
+            "person_day_to_day": 9233939.866666667,
+            "person_all_time_avg": 9007310.496296296,
+            "person_3day_avg": 9244785.644444443
+          },
+          "a_plus": {
+            "club_day_to_day": 124373490.0,
+            "club_all_time_avg": 130419974.16666667,
+            "club_3day_avg": 125583961.66666667,
+            "person_day_to_day": 4145783.0,
+            "person_all_time_avg": 4347332.472222222,
+            "person_3day_avg": 4186132.0555555555
+          },
+          "a": {
+            "club_day_to_day": 79012619.0,
+            "club_all_time_avg": 78561220.72222222,
+            "club_3day_avg": 79810930.0,
+            "person_day_to_day": 2633753.966666667,
+            "person_all_time_avg": 2618707.3574074074,
+            "person_3day_avg": 2660364.3333333335
+          },
+          "b_plus": {
+            "club_day_to_day": 26818066.0,
+            "club_all_time_avg": 26077454.111111112,
+            "club_3day_avg": 26926522.0,
+            "person_day_to_day": 893935.5333333333,
+            "person_all_time_avg": 869248.4703703704,
+            "person_3day_avg": 897550.7333333333
+          },
+          "b": {
+            "club_day_to_day": 18787231.0,
+            "club_all_time_avg": 16778172.388888888,
+            "club_3day_avg": 18571629.0,
+            "person_day_to_day": 626241.0333333333,
+            "person_all_time_avg": 559272.412962963,
+            "person_3day_avg": 619054.3
           }
         }
       }
